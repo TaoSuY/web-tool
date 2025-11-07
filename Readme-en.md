@@ -7,7 +7,7 @@ Copy all files to the server, the entry file is index.html
 
 ## Preview
 
-https://geeeeeeeek.github.io/web_tool/
+https://zxzv.dpdns.org/
 
 
 ## Secondary development
